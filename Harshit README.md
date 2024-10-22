@@ -30,7 +30,16 @@
 - **Key Features**:
   - Deployed using Streamlit for easy and interactive sentiment predictions.
   - Trained using NLP techniques on a text dataset to identify positive, negative, or neutral sentiments.
-- **Project Link**: [Sentiment Analysis Web App](https://github.com/yourusername/sentiment-analysis-app)
+ 
+    
+### <span style="font-size: 20px;">🔍Ipl match analysis</span>
+- **Description**: An Analysis on the Ipl match data till 2022.Where we can know that which team has won most of trophies
+  -Highest run made by players
+  -player who won most man of series,etc
+- **Tech Stack**: Python, Streamlit, Scikit-learn, Natural Language Processing (NLP)
+
+
+
 
 
 
@@ -47,7 +56,5 @@
 
 ## <span style="font-size: 30px;">🚀 Let's Connect</span>
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin/)
-- **Email**: your.email@example.com
-
-<p style="font-size: 16px;">Feel free to explore my projects and don't hesitate to reach out for collaboration or any data science/ML-related queries!</p>
+- **LinkedIn**: [My Linkedln](https://www.linkedin.com/in/harshit-mishra-b75535260/)
+- **Email**: hm9956245171@gmail.com
